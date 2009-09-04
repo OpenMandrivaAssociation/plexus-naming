@@ -45,7 +45,7 @@
 
 Name:           plexus-naming
 Version:        1.0
-Release:        %mkrel 2.a3.1.0.1
+Release:        %mkrel 2.a3.1.0.2
 Epoch:          0
 Summary:        Plexus Naming Component
 License:        Apache Software License 2.0
