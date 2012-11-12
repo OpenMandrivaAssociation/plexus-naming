@@ -1,0 +1,15 @@
+--- pom.xml.sav0	2007-11-28 18:41:09.000000000 +0100
++++ pom.xml	2007-11-28 18:42:04.000000000 +0100
+@@ -46,6 +46,12 @@
+       <version>0.8</version>
+     </dependency>
+     <dependency>
++      <groupId>commons-logging</groupId>
++      <artifactId>commons-logging</artifactId>
++      <version>1.0.4</version>
++      <scope>test</scope>
++    </dependency>  
++    <dependency>
+       <groupId>commons-dbcp</groupId>
+       <artifactId>commons-dbcp</artifactId>
+       <version>1.2.1</version>
